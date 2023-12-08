@@ -3,6 +3,7 @@ Hey there 👋 I'm Romario
 
 
 💫 About Me :
+
 🚀 I'm a software automation developer
 
 📚 Have hands on experience in automation development and QA, using TypeScript and Python.
