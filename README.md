@@ -1,13 +1,15 @@
 
-Hey there, Waving hand animated gif I'm Romario
+Hey there 👋 I'm Romario
 iampawan
 
 💫 About Me :
-🚀 I'm a Web Developer With focus on the MERN-STACK
+🚀 I'm a software automation developer
 
-📚 Specializiing mostly in JS, but also write other languages.
+📚 Have hands on experience in automation development and QA, using TypeScript and Python.
 
-👯 Always happy to contribute to open source
+👯 Always looking to expand my career and learn new skills.
 
-💻 Tech Stack
-JavaScript React NodeJS MongoDB Express.js Netlify Heroku MongoDB Vite TypeScript Bootstrap Postman
+
+
+💻 Tech Stack:
+TypeScript, Playwright, Python, Github Actions, CI/CD, AWS, Java, Selenium.
