@@ -13,4 +13,4 @@ Hey there 👋 I'm Romario
 
 
 💻 Tech Stack:
-TypeScript, Playwright, Python, Github Actions, CI/CD, AWS, Java, Selenium.
+TypeScript, Playwright, Python, Github Actions, CI/CD, AWS, Java, Selenium, Docker, Git, DockerHub.
