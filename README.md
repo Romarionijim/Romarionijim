@@ -6,7 +6,7 @@ Hey there 👋 I'm Romario
 
 🚀 I'm a software automation developer
 
-📚 Have hands on experience in automation development and QA, using TypeScript and Python.
+📚 Have hands on experience in automation development and QA, using Playwright with TypeScript and Python.
 
 👯 Always looking to expand my career and learn new skills.
 
